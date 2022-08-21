@@ -5,7 +5,7 @@
 ## Description
 A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
-![screenshot.png](/../main/assets/images/screenshot.png)
+<img src="./assets/TeamImage.png">
 
 
 ## Table of Contents
@@ -24,7 +24,6 @@ While in the root directory of the application, run `node index` in your termina
 
 A style sheet already exisits, but can be modified to your liking.
 
-<img src="./assets/TeamImage">
 
 ## Tests
 To run a test of this application, enter `npm run test` in your terminal.
