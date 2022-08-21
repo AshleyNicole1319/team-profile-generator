@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+    
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.jumbotron {
+    background-color: teal;
+}
+    
+h1 {
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+/* employee cards formatting */
+
+.main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+div.card {
+    margin: 15px 0;
+    -webkit-box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.6); 
+    box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.6);
+}
+
+div.card-body {
+    background-color: white;
+}
+
+div.card-header {
+    background: teal;
+    padding: 20px;
+    border-bottom: 1px solid lightseagreen;
+}
+
+.card-header h2 {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+h5.card-title {
+    font-size: 18px;
+    color: black;
+    margin: 0;
+}
+
+a:hover {
+    color: #92ddda;
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: #3fada8;
+    text-decoration: none;
+}
+
