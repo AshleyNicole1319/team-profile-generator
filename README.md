@@ -24,7 +24,7 @@ While in the root directory of the application, run `node index` in your termina
 
 A style sheet already exisits, but can be modified to your liking.
 
-<img src="./assets/TeamImage">
+<img src="/../team-profile-generator/assets/TeamImage">
 
 ## Tests
 To run a test of this application, enter `npm run test` in your terminal.
