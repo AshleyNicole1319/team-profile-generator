@@ -1,7 +1,6 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,17 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^28.1.3"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleyNicole1319/team-profile-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AshleyNicole1319/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/AshleyNicole1319/team-profile-generator#readme",
+  "description": ""
 }
